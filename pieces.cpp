@@ -1,0 +1,1 @@
+// remember this: u have 7 kinds of blocks, each with 4 rotations, each with 5x5 blocks
